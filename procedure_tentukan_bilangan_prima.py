@@ -1,5 +1,5 @@
 
-# Online Python - IDE, Editor, Compiler, Interpreter
+# procedure untuk menentukan bilangan prima atau bukan
 
 def prima(angka):
     if angka > 1 :
